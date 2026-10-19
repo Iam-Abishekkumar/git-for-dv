@@ -41,11 +41,11 @@ cat exercises/01_setup/README.md
 
 ## Exercises
 
-<!-- progress -->**Progress: 0 / 11 solved**<!-- /progress -->
+<!-- progress -->**Progress: 1 / 11 solved**<!-- /progress -->
 
 | # | Exercise | Guide section | Status |
 |---|---|---|---|
-| 01 | [Set up Git once](exercises/01_setup/) | 3 | ⬜ to do |
+| 01 | [Set up Git once](exercises/01_setup/) | 3 | ✅ solved |
 | 02 | [Clone and explore](exercises/02_clone/) | 4 | ⬜ to do |
 | 03 | [Reproduce the failure](exercises/03_reproduce/) | 5 | ⬜ to do |
 | 04 | [What changed between the nightlies](exercises/04_log_range/) | 6 | ⬜ to do |
@@ -54,11 +54,11 @@ cat exercises/01_setup/README.md
 | 07 | [Fix it on a branch and push](exercises/07_fix_branch/) | 8 | ⬜ to do |
 | 08 | [Get it merged](exercises/08_merge_request/) | 8 | ⬜ to do |
 | 09 | [Commit only what you mean (git add -p)](exercises/09_add_patch/) | 9 | ⬜ to do |
-| 10 | [Interrupted? git stash](exercises/10_stash/) | 10 | ⬜ to do |
+| 10 | [Interrupted? git stash](exercises/10_stash/) | 10 | 📝 practice |
 | 11 | [Merge main and resolve the conflict](exercises/11_conflict/) | 11 | ⬜ to do |
 | 12 | [Cherry-pick to the release branch and tag it](exercises/12_cherry_pick/) | 12 | ⬜ to do |
-| 13 | [Reflog rescue](exercises/13_reflog/) | 13 | ⬜ to do |
-| 14 | [Search with git grep](exercises/14_git_grep/) | 14 | ⬜ to do |
+| 13 | [Reflog rescue](exercises/13_reflog/) | 13 | 📝 practice |
+| 14 | [Search with git grep](exercises/14_git_grep/) | 14 | 📝 practice |
 | 15 | [Bonus: a CI pipeline file](exercises/15_bonus_ci/) | 15 | ⬜ to do |
 
 Exercises 10, 13 and 14 are practice only (no automatic check). 15 is a bonus.

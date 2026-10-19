@@ -1,9 +1,8 @@
 # 01 · Set up Git once: my commands
 
-TODO: write the commands you used in the box below, then delete this line.
 
 ```bash
-
+i learned how to set up the git once 
 ```
 
 ## What I learned

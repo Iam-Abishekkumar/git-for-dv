@@ -1,0 +1,3 @@
+rerere.enabled=true
+alias.lg=log --oneline --graph --decorate --all
+pull.rebase=false
