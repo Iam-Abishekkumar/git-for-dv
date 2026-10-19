@@ -1,0 +1,5 @@
+# Answers for exercises 03 to 06. Fill in the value after "=", then run ./check.sh
+e3_commit=
+e4_suspects=
+e5_first_bad=
+e6_author=

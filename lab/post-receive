@@ -1,0 +1,13 @@
+#!/bin/sh
+# Mimics GitLab's reply when a new branch is pushed.
+while read old new ref; do
+  case "$ref" in refs/heads/main|refs/tags/*) continue;; esac
+  if [ "$old" = "0000000000000000000000000000000000000000" ]; then
+    b=${ref#refs/heads/}
+    echo ""
+    echo "To create a merge request for $b, visit:"
+    echo "  https://gitlab.example.com/dv/fifo_dv/-/merge_requests/new?merge_request%5Bsource_branch%5D=$(echo "$b" | sed 's#/#%2F#g')"
+    echo "(in this lab, merge it from fifo_dv with:  ../teammate.sh merge $b)"
+    echo ""
+  fi
+done

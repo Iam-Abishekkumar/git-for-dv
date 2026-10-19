@@ -1,0 +1,5 @@
+# simulation output: never commit
+sim/
+*.vcd
+*.fsdb
+*.log
