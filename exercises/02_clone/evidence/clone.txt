@@ -1,0 +1,4 @@
+origin: gitlab/fifo_dv.git
+33dfeb9 (HEAD -> main, tag: nightly_fail_1017, origin/release/a0, origin/main, origin/HEAD) rtl: add port comments
+64ef749 scripts: record simulator version in each log
+7c75b56 rtl: simplify full flag logic

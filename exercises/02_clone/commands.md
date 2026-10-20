@@ -1,10 +1,9 @@
 # 02 · Clone and explore: my commands
 
-TODO: write the commands you used in the box below, then delete this line.
 
 ```bash
 
-```
+problem 2
 
 ## What I learned
 
