@@ -1,10 +1,8 @@
 # 03 · Reproduce the failure: my commands
 
-TODO: write the commands you used in the box below, then delete this line.
 
 ```bash
 
-```
-
+Third problem solved 
 ## What I learned
 

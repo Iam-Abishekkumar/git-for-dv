@@ -41,13 +41,13 @@ cat exercises/01_setup/README.md
 
 ## Exercises
 
-<!-- progress -->**Progress: 2 / 11 solved**<!-- /progress -->
+<!-- progress -->**Progress: 3 / 11 solved**<!-- /progress -->
 
 | # | Exercise | Guide section | Status |
 |---|---|---|---|
 | 01 | [Set up Git once](exercises/01_setup/) | 3 | ✅ solved |
 | 02 | [Clone and explore](exercises/02_clone/) | 4 | ✅ solved |
-| 03 | [Reproduce the failure](exercises/03_reproduce/) | 5 | ⬜ to do |
+| 03 | [Reproduce the failure](exercises/03_reproduce/) | 5 | ✅ solved |
 | 04 | [What changed between the nightlies](exercises/04_log_range/) | 6 | ⬜ to do |
 | 05 | [Find the bad commit with bisect](exercises/05_bisect/) | 6 | ⬜ to do |
 | 06 | [Who changed the line](exercises/06_blame/) | 7 | ⬜ to do |
